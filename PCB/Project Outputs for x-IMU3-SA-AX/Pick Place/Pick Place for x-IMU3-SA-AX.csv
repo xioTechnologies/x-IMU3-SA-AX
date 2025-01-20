@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+C:\MyFiles\x-io\Products\x-IMU3\x-IMU3-SA-AX\PCB\Project Outputs for x-IMU3-SA-AX\Pick Place\Pick Place for x-IMU3-SA-AX.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/12/24
+Time:       19:08
+Revision:   77cbf8d72ea06b54352dc144a740f42b3b64f3bc
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"Y1","13.0000mm","14.7500mm","BottomLayer","270","ECS-2520MV-240-BN-TR"
+"U2","16.2500mm","18.5000mm","BottomLayer","270","LP5907SNX-3.0"
+"U1","6.5000mm","18.5000mm","BottomLayer","270","PIC32MZ0512EFE064-I/MR"
+"R2","18.0000mm","14.2500mm","BottomLayer","270","YC248-FR-07220RL"
+"R3","13.7500mm","18.5000mm","BottomLayer","90","470R"
+"R1","13.0000mm","22.7500mm","BottomLayer","90","33R"
+"R4","7.5000mm","24.0000mm","BottomLayer","0","10kR"
+"J3","16.9600mm","22.7500mm","BottomLayer","180","DNP"
+"J1","13.4300mm","11.0000mm","TopLayer","90","Molex 90121-0770"
+"J2","15.0000mm","18.5000mm","TopLayer","180","SP-3533-02"
+"C10","16.2500mm","17.0000mm","BottomLayer","180","10uF"
+"C9","16.2500mm","20.0000mm","BottomLayer","180","10uF"
+"C8","14.7500mm","14.7500mm","BottomLayer","90","100nF"
+"C7","12.5000mm","16.7500mm","BottomLayer","0","100nF"
+"C6","7.0000mm","13.0000mm","BottomLayer","180","100nF"
+"C5","13.0000mm","21.0000mm","BottomLayer","90","100nF"
+"C4","12.0000mm","21.0000mm","BottomLayer","90","10uF"
+"C3","1.0000mm","17.5000mm","BottomLayer","90","100nF"
+"C2","5.7500mm","24.0000mm","BottomLayer","180","100nF"
+"C1","1.0000mm","20.0000mm","BottomLayer","90","100nF"
